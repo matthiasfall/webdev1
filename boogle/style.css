@@ -1,0 +1,16 @@
+body{
+    background-color: white;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.navi{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 99%;
+    height: 200px;
+    text-align: right;
+}
+
+
